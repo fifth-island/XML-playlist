@@ -1,0 +1,38 @@
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700;800&display=swap);
+
+SetList { background-image: linear-gradient(black, rgb(90, 7, 90), purple,rgb(90, 7, 90), black);
+          background-repeat: no-repeat; display: block; width:100%; height:auto;
+          font-family: 'Montserrat', sans-serif;
+          line-height: 1.1; }
+
+top { display: block; width: 100%; font-size:25px; text-align: center;
+      line-height:1; margin-top:20px; padding: auto; color: white; 
+      font-weight: bolder; font-size: 80px;
+      text-shadow: 0 0 0.05em #fff, 0 0 0.2em #fe05e1, 0 0 0.3em #fe05e1; }
+
+top:hover { text-shadow: 0 0 0.10em #fff, 0 0 0.4em #fe05e1, 0 0 0.6em #fe05e1; }
+
+@media screen and (max-width: 600px) {
+  top {
+   font-size: 60px;
+  }
+ }
+
+Song { display:block;
+       width: 350px; height: 100px;
+       margin-top:20px; margin-bottom:30px; margin-left: auto; margin-right: auto; 
+       padding: 16px;
+       border: solid white; border-left-width: 20px; 
+       color: white }
+
+Song:hover { background-image: radial-gradient(purple, black); }
+
+title { display:block; 
+        font-size:20px; font-weight:bold; }
+
+artist { display:block; 
+         font-size:20px; }
+
+genre { display: block; }
+
+year { display: block; }

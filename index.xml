@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?> <!--Here we define the type of file -->
+<?xml-stylesheet type="text/css" href="style.css"?> <!-- CSS style incorporated -->
+<!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Markazi+Text:wght@450" /> -->
+
+<SetList> <!--Root of setlist -->
+	<top> My Playlist </top> <!-- Title of the list -->
+ 
+   <Song>
+    <title>Total Eclipse of the Heart</title>
+     <artist>Bonnie Tyler</artist>
+     <genre>Pop</genre>
+     <genre>Country Music</genre>
+    <Year>1983</Year>
+   </Song>
+  
+   <Song>
+    <title>Dark Horse</title>
+     <artist>Katy Perry</artist>
+     <genre>Pop</genre>
+    <Year>2013</Year>
+   </Song>
+  
+   <Song>
+    <title>when the party's over</title>
+     <artist>Billie Eilish</artist>
+     <genre>Pop</genre>
+    <Year>2019</Year>
+   </Song>
+  
+   <Song>
+    <title>Amor Prohibido</title>
+     <artist>Selena Quintanilla</artist>
+     <genre>Latino</genre>
+    <Year>1994</Year>
+   </Song>
+  
+   <Song>
+    <title>Vai Malandra</title>
+     <artist>Anitta, MC Zaac and Maejor</artist>
+     <genre>Latino</genre>
+    <Year>2018</Year>
+   </Song>
+  
+   <Song>
+    <title>Yo Vivo para Ti</title>
+     <artist>Carla Morrison</artist>
+     <genre>Latino</genre>
+    <Year>2015</Year>
+   </Song>
+  
+   <Song>
+    <title>Jolene</title>
+     <artist>Dolly Parton</artist>
+     <genre>Country Music</genre>
+    <Year>1974</Year>
+   </Song>
+
+   <Song>
+    <title>Take Me Home, Country Roads</title>
+     <artist>John Denver</artist>
+     <genre>Country Music</genre>
+    <Year>1971</Year>
+   </Song>
+  
+   <Song>
+    <title>Mammas Don’t Let Your Babies Grow Up To Be Cowboys</title>
+     <artist>Waylon Jennings</artist>
+     <genre>Country Music</genre>
+    <Year>1978</Year>
+   </Song>
+  
+   <Song>
+    <title>I Walk the Line</title>
+     <artist>Johnny Cash</artist>
+     <genre>Country Music</genre>
+    <Year>1957</Year>
+   </Song>
+  
+   <Song>
+    <title>O Mundo é um Moinho</title>
+     <artist>Cartola</artist>
+     <genre>MPB</genre>
+    <Year>1976</Year>
+   </Song>
+  
+   <Song>
+    <title>Cálice</title>
+     <artist>Caetano Veloso</artist>
+     <genre>MPB</genre>
+    <Year>1978</Year>
+   </Song>
+
+   <Song>
+    <title>João e Maria</title>
+     <artist>Chico Buarque</artist>
+     <genre>MPB</genre>
+    <Year>1977</Year>
+   </Song>
+  
+   <Song>
+    <title>Flor de Tangerina</title>
+     <artist>Alceu Valença</artist>
+     <genre>MPB</genre>
+    <Year>2002</Year>
+   </Song>
+ 
+	
+</SetList> <!--End of root -->
